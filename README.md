@@ -35,8 +35,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://alone-y154.github.io/Frontend-Mentor-Project/
 
 ## My process
 
@@ -54,5 +53,5 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ## Author
 
-- Website - [Yashwanth krishna](https://www.your-site.com)
+- Website Created by - [Yashwanth krishna]
 - Frontend Mentor - [@Alone-Y154](https://www.frontendmentor.io/profile/Alone-Y154)
